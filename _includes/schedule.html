@@ -28,7 +28,9 @@
   {%- if site.data.syllabus.class_days contains day_of_week or 
     site.data.syllabus.discussion_days contains day_of_week or 
     site.data.syllabus.lab_days contains day_of_week or 
-    site.data.syllabus.hw_days contains day_of_week-%}
+    site.data.syllabus.hw_days contains day_of_week or
+    site.data.syllabus.hw_due_days contains day_of_week or
+    site.data.syllabus.quiz_days contains day_of_week -%}
     {%- assign valid_dates = valid_dates | push: date -%}
   {%- endif -%}
 {%- endfor -%}
@@ -56,11 +58,14 @@
 {%- assign discussion_index = 0 -%}
 {%- assign lab_index = 0 -%}
 {%- assign homework_index = 0 -%}
+{%- assign homework_due_index = 0 -%}
+{%- assign quiz_index = 0 -%}
 {%- assign lecture_number = site.data.syllabus.starting_lecture_number | default: 1 -%}
 {%- assign discussion_number = site.data.syllabus.starting_discussion_number | default: 1 -%}
 {%- assign lab_number = site.data.syllabus.starting_lab_number | default: 1 -%}
 {%- assign homework_number = site.data.syllabus.starting_homework_number | default: 1 -%}
-
+{%- assign homework_due_number = site.data.syllabus.starting_homework_number | default: 1 -%}
+{%- assign quiz_number = site.data.syllabus.starting_quiz_number | default: 1 -%}
 
 <div class="syllabus-container">
 {%- for week in sorted_dates -%}
@@ -69,7 +74,16 @@
     {%- assign week_number = forloop.index0 -%}
   {%- endif -%}
 
-  <h2 id="week-{{ week_number }}" class="week-label">Week {{ week_number }}</h2>
+  {%- comment -%} Look up the week info from _data/weeks.yml using the current loop index {%- endcomment -%}
+  {%- assign week_index = forloop.index0 -%}
+  {%- assign week_info = site.data.weeks.weeks[week_index] -%}
+
+  <h2 id="week-{{ week_number }}" class="week-label">
+    Week {{ week_number }}
+    {%- if week_info.title and week_info.skip != true -%}
+      : {{ week_info.title }}
+    {%- endif -%}
+  </h2>
   
   <table class="spanned-table" style="margin-bottom: 1.5rem; table-layout: fixed; width: 100%;">
     <tbody>
@@ -160,11 +174,62 @@
                 {%- endif -%}
             {%- endif -%}
 
+            {%- comment -%} --- QUIZ LOGIC --- {%- endcomment -%}
+            {%- if site.data.syllabus.quiz_days contains day_of_week -%}
+                {%- assign quiz_entry = site.data.quizzes.quizzes[quiz_index] -%}
+                
+                {%- if quiz_entry -%}
+                    {%- unless quiz_entry.skip -%}
+                        <div class="syllabus-item" style="margin-bottom: 4px;">
+                            {%- assign quiz_obj = nil -%}
+                            
+                            {%- comment -%} 1. FIND THE OBJECT (If slug exists) {%- endcomment -%}
+                            {%- if quiz_entry.slug -%}
+                                {%- assign target_slug = quiz_entry.slug | append: "" -%}
+                                {%- for q in site.quizzes -%}
+                                    {%- if q.slug == target_slug -%}
+                                        {%- assign quiz_obj = q -%}
+                                        {%- break -%}
+                                    {%- endif -%}
+                                {%- endfor -%}
+                            {%- endif -%}
+
+                            {%- comment -%} 2. DETERMINE TITLE AND LINK {%- endcomment -%}
+                            {%- assign display_title = quiz_entry.title | default: quiz_obj.title -%}
+                            
+                            {%- if quiz_entry.link -%}
+                                {%- assign display_link = quiz_entry.link -%}
+                            {%- elsif quiz_obj -%}
+                                {%- assign display_link = quiz_obj.url | relative_url -%}
+                            {%- else -%}
+                                {%- assign display_link = nil -%}
+                            {%- endif -%}
+
+                            {%- comment -%} 3. RENDER LABEL (Unless nonumber is true) {%- endcomment -%}
+                            {%- unless quiz_entry.nonumber -%}
+                                <strong class="label label-quiz">QUIZ {{ quiz_number }}</strong>
+                                {%- assign quiz_number = quiz_number | plus: 1 -%}
+                            {%- endunless -%}
+
+                            {%- comment -%} 4. RENDER LINK OR TITLE {%- endcomment -%}
+                            {%- if display_link -%}
+                                <a href="{{ display_link }}">{{ display_title }}</a>
+                            {%- else -%}
+                                <span>{{ display_title }}</span>
+                            {%- endif -%}
+                        </div>
+                    {%- endunless -%}
+
+                    {%- comment -%} 5. ALWAYS INCREMENT INDEX {%- endcomment -%}
+                    {%- assign quiz_index = quiz_index | plus: 1 -%}
+                {%- endif -%}
+            {%- endif -%}
+
             {%- comment -%} --- DISCUSSION LOGIC --- {%- endcomment -%}
-            {%- assign current_date = day | date: "%Y-%m-%d" -%}
-            {%- for disc_entry in site.data.discussions.discussions -%}
-                {%- assign disc_date = disc_entry.date | date: "%Y-%m-%d" -%}
-                {%- if disc_date == current_date -%}
+            {%- if site.data.syllabus.discussion_days contains day_of_week -%}
+                {%- assign disc_entry = site.data.discussions.discussions[discussion_index] -%}
+                
+                {%- if disc_entry -%}
                     {%- unless disc_entry.skip -%}
                         <div class="syllabus-item" style="margin-bottom: 4px;">
                             {%- assign disc_obj = nil -%}
@@ -205,14 +270,17 @@
                             {%- endif -%}
                         </div>
                     {%- endunless -%}
+
+                    {%- comment -%} 5. ALWAYS INCREMENT INDEX {%- endcomment -%}
+                    {%- assign discussion_index = discussion_index | plus: 1 -%}
                 {%- endif -%}
-            {%- endfor -%}
+            {%- endif -%}
 
             {%- comment -%} --- LAB LOGIC --- {%- endcomment -%}
-            {%- assign current_date = day | date: "%Y-%m-%d" -%}
-            {%- for lab_entry in site.data.labs.labs -%}
-                {%- assign lab_date = lab_entry.date | date: "%Y-%m-%d" -%}
-                {%- if lab_date == current_date -%}
+            {%- if site.data.syllabus.lab_days contains day_of_week -%}
+                {%- assign lab_entry = site.data.labs.labs[lab_index] -%}
+                
+                {%- if lab_entry -%}
                     {%- unless lab_entry.skip -%}
                         <div class="syllabus-item" style="margin-bottom: 4px;">
                             {%- assign lab_obj = nil -%}
@@ -253,14 +321,17 @@
                             {%- endif -%}
                         </div>
                     {%- endunless -%}
+
+                    {%- comment -%} 5. ALWAYS INCREMENT INDEX {%- endcomment -%}
+                    {%- assign lab_index = lab_index | plus: 1 -%}
                 {%- endif -%}
-            {%- endfor -%}
+            {%- endif -%}
 
             {%- comment -%} --- HOMEWORK LOGIC --- {%- endcomment -%}
-            {%- assign current_date = day | date: "%Y-%m-%d" -%}
-            {%- for hw_entry in site.data.homework.homework -%}
-                {%- assign hw_date = hw_entry.date | date: "%Y-%m-%d" -%}
-                {%- if hw_date == current_date -%}
+            {%- if site.data.syllabus.hw_days contains day_of_week -%}
+                {%- assign hw_entry = site.data.homework.homework[homework_index] -%}
+                
+                {%- if hw_entry -%}
                     {%- unless hw_entry.skip -%}
                         <div class="syllabus-item" style="margin-bottom: 4px;">
                             {%- assign hw_obj = nil -%}
@@ -289,7 +360,7 @@
 
                             {%- comment -%} 3. RENDER LABEL (Unless nonumber is true) {%- endcomment -%}
                             {%- unless hw_entry.nonumber -%}
-                                <strong class="label label-homework">Homework {{ homework_number }}</strong>
+                                <strong class="label label-homework-released">Homework {{ homework_number }}</strong>
                                 {%- assign homework_number = homework_number | plus: 1 -%}
                             {%- endunless -%}
 
@@ -301,8 +372,62 @@
                             {%- endif -%}
                         </div>
                     {%- endunless -%}
+
+                    {%- comment -%} 5. ALWAYS INCREMENT INDEX {%- endcomment -%}
+                    {%- assign homework_index = homework_index | plus: 1 -%}
                 {%- endif -%}
-            {%- endfor -%}
+            {%- endif -%}
+
+            {%- comment -%} --- HOMEWORK DUE LOGIC --- {%- endcomment -%}
+            {%- if site.data.syllabus.hw_due_days contains day_of_week -%}
+                {%- assign hw_due_entry = site.data.homework-due.homework-due[homework_due_index] -%}
+                
+                {%- if hw_due_entry -%}
+                    {%- unless hw_due_entry.skip -%}
+                        <div class="syllabus-item" style="margin-bottom: 4px;">
+                            {%- assign hw_due_obj = nil -%}
+                            
+                            {%- comment -%} 1. FIND THE OBJECT (If slug exists) {%- endcomment -%}
+                            {%- if hw_due_entry.slug -%}
+                                {%- assign target_slug = hw_due_entry.slug | append: "" -%}
+                                {%- for h in site.hw -%}
+                                    {%- if h.slug == target_slug -%}
+                                        {%- assign hw_due_obj = h -%}
+                                        {%- break -%}
+                                    {%- endif -%}
+                                {%- endfor -%}
+                            {%- endif -%}
+
+                            {%- comment -%} 2. DETERMINE TITLE AND LINK {%- endcomment -%}
+                            {%- assign display_title = hw_due_entry.title | default: hw_due_obj.title -%}
+                            
+                            {%- if hw_due_entry.link -%}
+                                {%- assign display_link = hw_due_entry.link -%}
+                            {%- elsif hw_due_obj -%}
+                                {%- assign display_link = hw_due_obj.url | relative_url -%}
+                            {%- else -%}
+                                {%- assign display_link = nil -%}
+                            {%- endif -%}
+
+                            {%- comment -%} 3. RENDER LABEL (Unless nonumber is true) {%- endcomment -%}
+                            {%- unless hw_due_entry.nonumber -%}
+                                <strong class="label label-homework">Homework-due</strong>
+                                {%- assign homework_due_number = homework_due_number | plus: 1 -%}
+                            {%- endunless -%}
+
+                            {%- comment -%} 4. RENDER LINK OR TITLE {%- endcomment -%}
+                            {%- if display_link -%}
+                                <a href="{{ display_link }}">{{ display_title }}</a>
+                            {%- else -%}
+                                <span>{{ display_title }}</span>
+                            {%- endif -%}
+                        </div>
+                    {%- endunless -%}
+
+                    {%- comment -%} 5. ALWAYS INCREMENT INDEX {%- endcomment -%}
+                    {%- assign homework_due_index = homework_due_index | plus: 1 -%}
+                {%- endif -%}
+            {%- endif -%}
 
             {%- comment -%} --- PROJECT LOGIC (Date-Driven) --- {%- endcomment -%}
             {%- assign current_date = day | date: "%Y-%m-%d" -%}
