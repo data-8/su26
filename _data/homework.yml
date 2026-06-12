@@ -1,0 +1,40 @@
+### HOMEWORK ORDERING ###
+# each entry requires either a 'slug' or a 'title' field
+
+# use the slug if you utilize the _hw collection. this will take info
+# from the front matter of the corresponding file in _hw/
+# if your filename has a leading zero, quotes are required around the slug.
+# if you use the _hw collection, the title field will be useful for
+# one-off overrides like holidays or for placeholders; use the title field sparingly
+
+# nonumber supresses the label and numbering for the homework entry
+# skip: true will omit the homework from the schedule entirely
+
+# link overrides the default link to the homework page from the collection if 
+# you provided a slug or provides an external link
+homework:
+  - title: Causality and Expressions
+    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fhw%2Fhw01%2Fhw01.ipynb"
+  - title: Arrays and Tables
+    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fhw%2Fhw02%2Fhw02.ipynb"
+  - title: Table Manipulation and Visualization
+    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fhw%2Fhw03%2Fhw03.ipynb"
+  - title: Functions, Tables, and Groups
+    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fhw%2Fhw04%2Fhw04.ipynb"
+  - title: Chance, Empirical Probability Distribution
+    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fhw%2Fhw05%2Fhw05.ipynb"
+  - title: Assessing Models and Testing Hypotheses
+    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fhw%2Fhw06%2Fhw06.ipynb"
+  - title: Confidence Intervals
+    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fhw%2Fhw07%2Fhw07.ipynb"
+  - title: Sample Sizes and Confidence Intervals
+    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fhw%2Fhw08%2Fhw08.ipynb"
+  - title: Linear Regression
+    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fhw%2Fhw09%2Fhw09.ipynb"
+  - title: Regression Inference
+    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fhw%2Fhw10%2Fhw10.ipynb"
+  - title: Classification
+    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fhw%2Fhw11%2Fhw11.ipynb"
+    date: 2026-04-24
+  - title: Extra Credit
+    # link: "https://edstem.org/us/courses/91618/discussion/8015026"
