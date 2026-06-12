@@ -1,6 +1,6 @@
 # Data 8 Spring 2026 Website!
 
-BADGES HERE
+[![GitHub Pages Deployment](https://github.com/data-8/su26/actions/workflows/jekyll.yml/badge.svg)](https://github.com/data-8/su26/actions/workflows/jekyll.yml) [![Accessibility Tests](https://github.com/data-8/su26/actions/workflows/rspec.yml/badge.svg)](https://github.com/data-8/su26/actions/workflows/rspec.yml)
 
 
 ## Installation
