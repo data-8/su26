@@ -80,45 +80,44 @@ lectures:
             url: https://inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html
   - title: "Holiday: No Lecture"
     nonumber: true
-  - slug: "groups"
+  - slug: "groups-pivots-joins"
     readings:
       - links:
           - text: 8.2
             url: https://inferentialthinking.com/chapters/08/2/Classifying_by_One_Variable.html
           - text: 8.3
             url: https://inferentialthinking.com/chapters/08/3/Cross-Classifying_by_More_than_One_Variable.html
-  - slug: "pivots-joins"
-    readings:
-      - title: 8.4
-        link: https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html
-  - slug: "conditionals-iteration"
+          - text: 8.4
+            url: https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html
+  - slug: "conditionals"
     readings:
       - links:
           - text: 9
             url: https://inferentialthinking.com/chapters/09/Randomness.html
           - text: 9.1
             url: https://inferentialthinking.com/chapters/09/1/Conditional_Statements.html
-          - text: 9.2
-            url: https://inferentialthinking.com/chapters/09/2/Iteration.html
-  - slug: "chance"
+  - slug: "iteration"
     readings:
       - links:
           - text: 9.2
             url: https://inferentialthinking.com/chapters/09/2/Iteration.html
+  - slug: "probability"
+    readings:
+      - links:
           - text: 9.3
             url: https://inferentialthinking.com/chapters/09/3/Simulation.html
           - text: 9.4
             url: https://inferentialthinking.com/chapters/09/4/Monty_Hall_Problem.html
+          - text: 9.5
+            url: https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html
   - slug: "sampling"
     readings:
       - links:
-          - text: 9.5
-            url: https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html
           - text: 10
             url: https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html
           - text: 10.1
             url: https://inferentialthinking.com/chapters/10/1/Empirical_Distributions.html
-  - slug: "models"
+  - slug: "hypothesis-testing"
     readings:
       - links:
           - text: 10.2
@@ -127,13 +126,13 @@ lectures:
             url: https://inferentialthinking.com/chapters/10/3/Empirical_Distribution_of_a_Statistic.html
           - text: 10.4
             url: https://inferentialthinking.com/chapters/10/4/Random_Sampling_in_Python.html
-  - slug: "comparing-distributions"
-    readings:
-      - links:
-          - text: 11.1
-            url: https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html
-          - text: 11.2
-            url: https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html
+  # - slug: "comparing-distributions"
+  #   readings:
+  #     - links:
+  #         - text: 11.1
+  #           url: https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html
+  #         - text: 11.2
+  #           url: https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html
   - slug: "decisions-uncertainty"
     readings:
       - links:
@@ -155,7 +154,17 @@ lectures:
             url: https://inferentialthinking.com/chapters/12/2/Causality.html
           - text: 12.3
             url: https://inferentialthinking.com/chapters/12/3/Deflategate.html
-  - slug: "privacy"
+  # THE SCHEDULE DID NOT ACCOUNT FOR JULY 3 HOLIDAY SO THIS IS COMMENTED OUT UNTIL THE SCHEDULE IS UPDATED
+  # - slug: "health"
+  #   readings:
+  #     - links:
+  #         - text: 18
+  #           url: https://inferentialthinking.com/chapters/18/updating-predictions/index.html
+  #         - text: 18.1
+  #           url: https://inferentialthinking.com/chapters/18/1/more-likely-than-not-binary-classifier/index.html
+  #         - text: 18.2
+  #           url: https://inferentialthinking.com/chapters/18/2/making-decisions/index.html
+  - skip: true
   - slug: "confidence-intervals"
     readings:
       - links:
@@ -193,12 +202,12 @@ lectures:
       - links:
           - text: 14.5
             url: https://inferentialthinking.com/chapters/14/5/Variability_of_the_Sample_Mean.html
-  - slug: "elections"
-    readings:
-      - links:
-          - text: 14.6
-            url: https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html
-  - slug: "numerical-association"
+  # - slug: "elections"
+  #   readings:
+  #     - links:
+  #         - text: 14.6
+  #           url: https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html
+  - slug: "correlation"
     readings:
       - links:
           - text: 15.1
@@ -244,18 +253,13 @@ lectures:
       - links:
           - text: 17.5
             url: https://inferentialthinking.com/chapters/17/5/Accuracy_of_the_Classifier.html
+  - slug: "bayes-classification"
   - slug: "text-classification"
     readings:
       - links:
           - text: 17.6
             url: https://inferentialthinking.com/chapters/17/6/Multiple_Regression.html
-  - slug: "health"
-    readings:
-      - links:
-          - text: 18
-            url: https://inferentialthinking.com/chapters/18/updating-predictions/index.html
-          - text: 18.1
-            url: https://inferentialthinking.com/chapters/18/1/more-likely-than-not-binary-classifier/index.html
-          - text: 18.2
-            url: https://inferentialthinking.com/chapters/18/2/making-decisions/index.html
-  - slug: "conclusion"
+  - slug: "multiple-lin-regression"
+  - slug: "exploration-review"
+  - slug: "inference-review"
+  - slug: "prediction-review"
