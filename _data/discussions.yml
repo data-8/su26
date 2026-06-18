@@ -13,6 +13,8 @@
 # link overrides the default link to the discussion page from the collection if 
 # you provided a slug or provides an external link
 discussions:
+  - skip: true
+  - skip: true
   - title: By the Numbers
     slug: "disc01"
   - title: Intro to Tables & Causation
@@ -39,5 +41,5 @@ discussions:
     slug: "disc12"
   - title: Intervals for Predictions & kNN Classification
     slug: "disc13"
-  - title: Bayes
-    slug: "disc14"
+  # - title: Bayes
+  #   slug: "disc14"
