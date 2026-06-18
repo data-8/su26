@@ -126,13 +126,6 @@ lectures:
             url: https://inferentialthinking.com/chapters/10/3/Empirical_Distribution_of_a_Statistic.html
           - text: 10.4
             url: https://inferentialthinking.com/chapters/10/4/Random_Sampling_in_Python.html
-  # - slug: "comparing-distributions"
-  #   readings:
-  #     - links:
-  #         - text: 11.1
-  #           url: https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html
-  #         - text: 11.2
-  #           url: https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html
   - slug: "decisions-uncertainty"
     readings:
       - links:
@@ -202,11 +195,6 @@ lectures:
       - links:
           - text: 14.5
             url: https://inferentialthinking.com/chapters/14/5/Variability_of_the_Sample_Mean.html
-  # - slug: "elections"
-  #   readings:
-  #     - links:
-  #         - text: 14.6
-  #           url: https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html
   - slug: "correlation"
     readings:
       - links:
