@@ -13,28 +13,36 @@
 # link overrides the default link to the homework page from the collection if 
 # you provided a slug or provides an external link
 homework:
-  - title: Causality and Expressions
+  - title: HW 1 (due June 26) #Causality and Expressions
     # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fhw%2Fhw01%2Fhw01.ipynb"
-  - title: Arrays and Tables
+  - skip: true # thursday
+  - title: HW 2 (due June 30) #Arrays and Tables
     # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fhw%2Fhw02%2Fhw02.ipynb"
-  - title: Table Manipulation and Visualization
+  - title: HW 3 (due July 3) #Table Manipulation and Visualization
     # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fhw%2Fhw03%2Fhw03.ipynb"
-  - title: Functions, Tables, and Groups
+  - title: HW 4 (due July 7) #Functions, Tables, and Groups
     # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fhw%2Fhw04%2Fhw04.ipynb"
-  - title: Chance, Empirical Probability Distribution
+  - skip: true
+  - title: HW 5 (due July 10) #Chance, Empirical Probability Distribution
     # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fhw%2Fhw05%2Fhw05.ipynb"
-  - title: Assessing Models and Testing Hypotheses
+  - skip: true # thursday
+  - title: HW 6 (due July 14) #Assessing Models and Testing Hypotheses
     # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fhw%2Fhw06%2Fhw06.ipynb"
-  - title: Confidence Intervals
+  - skip: true # tuesday
+  - skip: true # thursday
+  - skip: true # midterm
+  - title: HW 7 (due July 24) #Confidence Intervals
     # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fhw%2Fhw07%2Fhw07.ipynb"
-  - title: Sample Sizes and Confidence Intervals
+  - skip: true # thursday
+  - title: HW 8 (due July 28) #Sample Sizes and Confidence Intervals
     # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fhw%2Fhw08%2Fhw08.ipynb"
-  - title: Linear Regression
+  - title: HW 9 (due July 31) #Linear Regression
     # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fhw%2Fhw09%2Fhw09.ipynb"
-  - title: Regression Inference
+  - skip: true # thursday
+  - title: HW 10 (due August 4) #Regression Inference
     # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fhw%2Fhw10%2Fhw10.ipynb"
-  - title: Classification
+  - title: HW 11 (due August 7) #Classification
     # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fhw%2Fhw11%2Fhw11.ipynb"
-    date: 2026-04-24
-  - title: Extra Credit
-    # link: "https://edstem.org/us/courses/91618/discussion/8015026"
+  - skip: true #thursday
+  - title: HW 12 (due August 11) #Final Project
+  
