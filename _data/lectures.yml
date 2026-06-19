@@ -147,16 +147,6 @@ lectures:
             url: https://inferentialthinking.com/chapters/12/2/Causality.html
           - text: 12.3
             url: https://inferentialthinking.com/chapters/12/3/Deflategate.html
-  # THE SCHEDULE DID NOT ACCOUNT FOR JULY 3 HOLIDAY SO THIS IS COMMENTED OUT UNTIL THE SCHEDULE IS UPDATED
-  # - slug: "health"
-  #   readings:
-  #     - links:
-  #         - text: 18
-  #           url: https://inferentialthinking.com/chapters/18/updating-predictions/index.html
-  #         - text: 18.1
-  #           url: https://inferentialthinking.com/chapters/18/1/more-likely-than-not-binary-classifier/index.html
-  #         - text: 18.2
-  #           url: https://inferentialthinking.com/chapters/18/2/making-decisions/index.html
   - skip: true
   - slug: "confidence-intervals"
     readings:
