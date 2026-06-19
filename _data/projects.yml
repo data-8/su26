@@ -4,15 +4,22 @@
 # label number is optional. You can make this 
 # 1, 2, 3, etc. or A, B, C, etc. or whatever you want
 projects:
-  - title: World Population and Poverty 
+  - title: Project 1 Released
     date: 2026-06-29
     # link: https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fproject%2Fproject1%2Fproject1.ipynb
     label-number: 1
-  - title: Climate 
-    date: 2026-07-28
-    # link: https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fproject%2Fproject2%2Fproject2.ipynb
+  - title: Project 1 Checkpoint Due
+    date: 2026-07-06
+    label-number: 1
+  - title: Project 1 Due
+    date: 2026-07-13
+    label-number: 1
+  - title: Project 2 Released
+    date: 2026-08-03
     label-number: 2
-  - title: Movie Classification 
-    date: 2026-08-06
-    # link: https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fproject%2Fproject3%2Fproject3.ipynb
-    label-number: 3
+  - title: Project 2 Checkpoint Due
+    date: 2026-08-07
+    label-number: 2
+  - title: Project 2 Due
+    date: 2026-08-12
+    label-number: 2
