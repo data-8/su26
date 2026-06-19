@@ -10,12 +10,12 @@ end_date: 2026-08-14
 # Any other days you want to appear on the calendar (e.g. for one-time events
 # like exams or bonus lectures) can be listed here. These appear in the second column.
 extra_days_col2:
-  # - date: 2026-03-10
-  #   title: "Midterm Exam, 8-10pm"
-  #   label: exam
-  # - date: 2026-05-12
-  #   title: "Final Exam, 7-10pm"
-  #   label: exam
+  - date: 2026-07-17
+    title: "Midterm Exam, 11am-1pm"
+    label: exam
+  - date: 2026-08-14
+    title: "Final Exam, 11am-2pm"
+    label: exam
 
 # The dates used in extra_links_col3 below must already be included on the calendar 
 # Use this to provide extra links in the third (reading) column
