@@ -2,7 +2,7 @@
 name: Richard Villagomez
 role: Teaching Assistant
 email: richard.villagomez@berkeley.edu
-website: 
+website: https://richardvillagomez.notion.site/data8-su26-richard
 photo: richard.png
 pronouns: he/him
 office_hours: 
