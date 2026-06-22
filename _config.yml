@@ -72,7 +72,7 @@ berkeley_theme_options:
 google_calendar:
   # This can be found in the settings for the calendar.
   # The calendar must be publicly readable.
-  google_calendar_id: c_9e2affe233911f41c73b050813fc50068830f3e0b3df0a7b165470948068de5b@group.calendar.google.com
+  google_calendar_id: c_4c42d17d9482b990f13ec860d0061e1301262e938ea3b87eb2e1eace404e10f4@group.calendar.google.com
   # You need to make this, once per course, ideally via a SPA
   # TODO: Recommend adding link to Google cloud project here
   google_api_key: AIzaSyBGfcXLk7sDMIW-WI_DiERb0JHGiqBHtck
