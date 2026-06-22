@@ -14,26 +14,26 @@
 # you provided a slug or provides an external link
 labs:
   - title: Lab 1 (due June 24)
-    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&branch=main&urlpath=tree%2Fmaterials-sp26%2Flab%2Flab01%2Flab01.ipynb"
+    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&branch=main&urlpath=tree%2Fmaterials-su26%2Flab%2Flab01%2Flab01.ipynb"
   - title: Lab 2 (due June 26)
-    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&branch=main&urlpath=tree%2Fmaterials-sp26%2Flab%2Flab02%2Flab02.ipynb"
+    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&branch=main&urlpath=tree%2Fmaterials-su26%2Flab%2Flab02%2Flab02.ipynb"
   - title: Lab 3 (due July 1)
-    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&branch=main&urlpath=tree%2Fmaterials-sp26%2Flab%2Flab03%2Flab03.ipynb"
+    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&branch=main&urlpath=tree%2Fmaterials-su26%2Flab%2Flab03%2Flab03.ipynb"
   - title: Lab 4 (due July 3)
-    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&branch=main&urlpath=tree%2Fmaterials-sp26%2Flab%2Flab04%2Flab04.ipynb"
+    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&branch=main&urlpath=tree%2Fmaterials-su26%2Flab%2Flab04%2Flab04.ipynb"
   - title: Lab 5 (due July 7)
-    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&branch=main&urlpath=tree%2Fmaterials-sp26%2Flab%2Flab05%2Flab05.ipynb"
+    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&branch=main&urlpath=tree%2Fmaterials-su26%2Flab%2Flab05%2Flab05.ipynb"
   - title: Lab 6 (due July 10)
-    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&branch=main&urlpath=tree%2Fmaterials-sp26%2Flab%2Flab06%2Flab06.ipynb"
+    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&branch=main&urlpath=tree%2Fmaterials-su26%2Flab%2Flab06%2Flab06.ipynb"
   - title: Lab 7 (due July 15)
-    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&branch=main&urlpath=tree%2Fmaterials-sp26%2Flab%2Flab07%2Flab07.ipynb"
+    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&branch=main&urlpath=tree%2Fmaterials-su26%2Flab%2Flab07%2Flab07.ipynb"
   - skip: true # midterm
   - title: Lab 8 (Due July 22)
-    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&branch=main&urlpath=tree%2Fmaterials-sp26%2Flab%2Flab08%2Flab08.ipynb"
+    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&branch=main&urlpath=tree%2Fmaterials-su26%2Flab%2Flab08%2Flab08.ipynb"
   - title: Lab 9 (Due July 24)
-    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&branch=main&urlpath=tree%2Fmaterials-sp26%2Flab%2Flab09%2Flab09.ipynb"
+    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&branch=main&urlpath=tree%2Fmaterials-su26%2Flab%2Flab09%2Flab09.ipynb"
   - title: Lab 10 (Due July 29)
-    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&branch=main&urlpath=tree%2Fmaterials-sp26%2Flab%2Flab10%2Flab10.ipynb"
+    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&branch=main&urlpath=tree%2Fmaterials-su26%2Flab%2Flab10%2Flab10.ipynb"
   - title: Lab 11 (Due July 31)
   - title: Lab 12 (Due August 5)
   - skip: true
