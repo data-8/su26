@@ -6,7 +6,7 @@ website:
 photo: elizabeth.png
 pronouns: 
 office_hours: 
-team: 
+team: Tutors
 access_email: 
 access_dsp: 
 ---

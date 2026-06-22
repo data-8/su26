@@ -6,7 +6,7 @@ website:
 photo: tai.jpg
 pronouns: he/him
 office_hours: 
-team: 
+team: Student Support
 access_email: 
 access_dsp: 
 ---

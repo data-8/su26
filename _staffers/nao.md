@@ -6,7 +6,7 @@ website: https://linktr.ee/naoohashi
 photo: nao.png
 pronouns: she/her
 office_hours: 
-team: 
+team: Logistics
 access_email: 
 access_dsp: 
 ---

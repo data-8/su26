@@ -6,7 +6,7 @@ website:
 photo: lena.png
 pronouns: she/her
 office_hours: 
-team: 
+team: Content
 access_email: 
 access_dsp: 
 ---
