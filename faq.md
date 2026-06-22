@@ -6,9 +6,6 @@ description: >-
     Frequently Asked Questions and Debugging Tips
 ---
 
-{: .warning }
-⚠️ This FAQ is borrowed from the Spring 2026 semester and may be subject to change as long as this banner is present.
-
 # **Frequently Asked Questions**
 
 <br>
