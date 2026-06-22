@@ -60,7 +60,7 @@ aux_links:
   # Extensions:
   #   - 'https://docs.google.com/forms/d/e/1FAIpQLScZ_AK4ZvHAHjrPw17XcUw1q28gUiemUEwawhQ4hDwhsQSnUQ/viewform?usp=dialog'
   Review Sandbox:
-    - 'https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-sp26&urlpath=tree/materials-sp26/sandbox/sandbox.ipynb'
+    - 'https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-su26&urlpath=tree/materials-su26/sandbox/sandbox.ipynb'
   # JupyTutor Feedback:
   #   - 'https://docs.google.com/forms/d/e/1FAIpQLSed1Bq166rNDRTTws31O1Y4sSulFu8zY_y5jaM1K_3DBt7Plw/viewform?usp=dialog'
   # OATutor Feedback:
