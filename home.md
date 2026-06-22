@@ -12,7 +12,7 @@ permalink: /
 # **Data 8: Foundations of Data Science**
 
 {: .mb-2 }
-UC Berkeley, Spring 2026
+UC Berkeley, Summer 2026
 {: .mb-2 .fs-6}
 
 <!-- [Ed](https://edstem.org/us/courses/91618/discussion){: .btn .btn-ed}
