@@ -3,7 +3,7 @@ title: Week 1
 week: 1
 ---
 
-Hello world! Welcome to Data 8! 
+Hello world, and welcome to Data 8! 
 
-Posted readings are subject to change up until the week of the lecture.
+For now, please read through Prof Jeremy's announcements on (bcourses)[https://bcourses.berkeley.edu/courses/1555312/].
 
