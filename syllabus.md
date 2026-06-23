@@ -127,7 +127,9 @@ Here's a [walkthrough video](https://drive.google.com/file/d/1H9UwEb7uQrc1eK0PKG
 
 ### Exams
 
-All exams, regardless of section, will be held in-person. In-person exams are vastly more efficient for students and for staff when it comes to the administration and the distribution of grades in a timely manner. If you are in the online section and absolutely cannot attend the in-person exams, you will be asked to provide supporting documentation multiple times during the semester and must take a remote exam. In order to preserve the integrity of the test for all students, the remote exam requires a rigorous setup process on the part of the student. This process must be strictly adhered to, and any violation of the process, to any degree, will result in an automatic 0 on the exam. 
+For in-person students: all exams will be held in-person. In-person exams are vastly more efficient for students and for staff when it comes to the administration and the distribution of grades in a timely manner. 
+
+For online students: we will send out a form that will allow you to choose between taking the exam in-person or remotely. In order to preserve the integrity of the test for all students, the remote exam requires a rigorous setup process on the part of the student. This process must be strictly adhered to, and any violation of the process, to any degree, will result in an automatic 0 on the exam. 
 
 The midterm exam will be held in-person on Friday, August 17, from 11am-1pm PT.
 
