@@ -3,7 +3,7 @@ name: Nao Ohashi
 role: Teaching Assistant
 email: nao_ohashi@berkeley.edu
 website: https://linktr.ee/naoohashi
-photo: nao.jpeg
+photo: Nao.jpeg
 pronouns: she/her
 office_hours: 
 team: Logistics
