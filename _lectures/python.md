@@ -1,6 +1,5 @@
 ---
 published: true
-date: 2026-6-24
 presented_by: Jeremy Sanchez
 title: Python
 files:
