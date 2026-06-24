@@ -2,7 +2,7 @@
 name: Tai Dinh
 role: Teaching Assistant
 email: dinhtai@berkeley.edu
-website: 
+website: https://drive.google.com/drive/folders/1xcPPanqE5YtXbzLxrM4Ps-2zFlvGUcXO?usp=share_link
 photo: tai.jpg
 pronouns: he/him
 office_hours: 
@@ -11,4 +11,4 @@ access_email:
 access_dsp: 
 ---
 
-Hey hey! I’m Tai and I’m a junior studying applied math. I love pokemon, fire emblem, and Kpop, and feel free to ask me for any help!
+Hey hey! I’m Tai and I’m a rising senior studying applied math and data science. I love pokemon, fire emblem, and Kpop, and feel free to ask me for any help!
