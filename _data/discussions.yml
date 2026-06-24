@@ -13,11 +13,9 @@
 # link overrides the default link to the discussion page from the collection if 
 # you provided a slug or provides an external link
 discussions:
-  - skip: true
-  - skip: true
-  - title: By the Numbers
+  - title: "[No section] By the Numbers"
     slug: "disc01"
-  - title: Intro to Tables & Causation
+  - title: "[No section]  Intro to Tables & Causation"
     slug: "disc02"
   - title: Visualizations, Data Types, Extending Tables
     slug: "disc03"
