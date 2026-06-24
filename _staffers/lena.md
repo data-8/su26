@@ -11,4 +11,4 @@ access_email:
 access_dsp: 
 ---
 
-Hi! I am a rising senior studying applied mathematics and data science. I love reading, baking and hiking random places. Can’t wait for Data8 this summer!
+Hi! I am a rising senior studying applied mathematics and data science. I love reading, baking and hiking random places. Can’t wait for Data 8 this summer!
