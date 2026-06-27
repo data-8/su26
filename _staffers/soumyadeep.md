@@ -5,7 +5,7 @@ email: soumtalu@berkeley.edu
 website: https://www.linkedin.com/in/soumyadeep-talukdar/
 photo: Soumyadeep.jpg
 pronouns: he/him
-office_hours: 
+office_hours: Tuesdays 1-2pm
 team: 
 access_email: 
 access_dsp: 

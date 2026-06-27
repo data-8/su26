@@ -5,7 +5,7 @@ email: elizabeth.d.gonzo@berkeley.edu
 website: 
 photo: Elizabeth.jpg
 pronouns: she/her
-office_hours: 
+office_hours: Tuesdays 2-3pm
 team: Tutors
 access_email: 
 access_dsp: 

@@ -5,7 +5,7 @@ email: lena13@berkeley.edu
 website: https://drive.google.com/drive/folders/1rPNKkB_1aXMi4iAo10hKevT08zZMFoVV?usp=sharing
 photo: lena.png
 pronouns: she/her
-office_hours: 
+office_hours: Tuesdays 3-4pm
 team: Content
 access_email: 
 access_dsp: 
