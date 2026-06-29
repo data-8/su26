@@ -99,7 +99,7 @@ The remaining 10% of credit will be awarded for submitting the programming-based
 
 ### Homework
 
-Biweekly homework assignments are longer-form versions of the assignments you receive during lab and feature both written and programming tasks. You must complete and submit your homework independently, but you can discuss problems with other students and course staff. Homework assignments are typically released each Tuesday and Friday at 11am PT, with deadlines set for the subsequent Friday and following Tuesday at 11am PT, respectively. Check the front page of the course website for the specifics on any given week.
+Biweekly homework assignments are longer-form versions of the assignments you receive during lab and feature both written and programming tasks. You must complete and submit your homework independently, but you can discuss problems with other students and course staff. Homework assignments are typically released each Tuesday and Friday at 11am PT, with deadlines set for the subsequent Friday and following Tuesday at 11:59pm PT, respectively. Check the front page of the course website for the specifics on any given week.
 
 
 #### How Should You Submit Your Homework Assignment?
@@ -212,7 +212,7 @@ We understand that the submission process is new for many students taking the co
 
 ### Submission Deadlines
 
-All homeworks, labs, and projects in this course is **11:59 PM PT** will be due at **11:59 PM PT** on their respective due dates. 
+All homeworks, labs, and projects in this course will be due at **11:59 PM PT** on their respective due dates. 
 
 #### Early Submission Bonus
 
