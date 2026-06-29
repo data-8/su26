@@ -12,3 +12,4 @@ Welcome to week 2 of Data 8! Hope it's going data gr8 :D
     * Homework 03 is due on *<u>Friday</u>, July 3 @ 11:59 PM*
     * Project 1 checkpoint is due on *<u>Monday</u>, July 6 @ 11:59 PM*
 2. Lab sections start **this week!** More information in [this Ed post](https://edstem.org/us/courses/99820/discussion/8142610). 
+3. Tutoring sections are now live! More information in [this Ed post](https://edstem.org/us/courses/99820/discussion/8144628). 
