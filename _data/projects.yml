@@ -6,7 +6,7 @@
 projects:
   - title: Project 1 Released
     date: 2026-06-29
-    # link: https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&urlpath=tree%2Fmaterials-su26%2Fproject%2Fproject1%2Fproject1.ipynb
+    link: https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&urlpath=tree%2Fmaterials-su26%2Fproject%2Fproject1%2Fproject1.ipynb
     label-number: 1
   - title: Project 1 Checkpoint Due
     date: 2026-07-06
