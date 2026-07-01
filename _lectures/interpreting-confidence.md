@@ -1,6 +1,6 @@
 ---
 published: true
-# presented_by: John DeNero
+presented_by: Jeremy Sanchez
 title: Interpreting Confidence
 # files:
 #   slides: https://docs.google.com/presentation/d/16AEbDgOV7ZG6u2D71wIzi1hIROJ9swfJC0NUF3sHTtM/

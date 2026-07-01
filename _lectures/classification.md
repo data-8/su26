@@ -1,6 +1,6 @@
 ---
 published: true
-# presented_by: John DeNero
+presented_by: Jeremy Sanchez
 title: Classification
 # files:
 #   slides: https://docs.google.com/presentation/d/1qICEqYh48UdShceG1YMZ7S2kv1wilNGF1GGvQbykXPY/edit?

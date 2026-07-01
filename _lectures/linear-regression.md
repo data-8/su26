@@ -1,6 +1,6 @@
 ---
 published: true
-# presented_by: John DeNero
+presented_by: Jeremy Sanchez
 title: Linear Regression
 # files:
 #   slides: https://docs.google.com/presentation/d/1doil6etJwu0XDG4opeX3voxjORUwWyZD-Z6axPP3Qgw/edit?usp=sharing

@@ -1,6 +1,6 @@
 ---
 published: true
-# presented_by: John DeNero
+presented_by: Jeremy Sanchez
 title: Causality
 # files:
 #   slides: https://docs.google.com/presentation/d/1DDS3hyHPI36eMShjU0ie34qeiMKwhbhTRyu66cGgrhk/edit?usp=sharing

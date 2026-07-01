@@ -1,6 +1,6 @@
 ---
 published: true
-# presented_by: John DeNero
+presented_by: Jeremy Sanchez
 title: Exploration Review
 # files:
 #   slides: https://docs.google.com/presentation/d/1P92SGkTpigzg43P02wcCOkWT-b_MV__utSaZIBWpdIY/edit

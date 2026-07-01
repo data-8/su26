@@ -1,6 +1,6 @@
 ---
 published: true
-# presented_by: John DeNero
+presented_by: Jeremy Sanchez
 title: Comparing Distributions
 # files:
 #   slides: https://docs.google.com/presentation/d/1XLQ0tVqiX_Oco7Qz29AL1sTKZcwff4sl1MmKwMcB7vc/edit

@@ -1,6 +1,6 @@
 ---
 published: true
-# presented_by: John DeNero
+presented_by: Jeremy Sanchez
 title: Midterm Review
 # files:
 #   slides: https://docs.google.com/presentation/d/1NI1MrzuI3iJ78sEIHTBFAqFG23Cp9J0QbIMy5aM669U/edit?usp=sharing

@@ -1,6 +1,6 @@
 ---
 published: true
-# presented_by: John DeNero
+presented_by: Jeremy Sanchez
 title: Confidence Intervals
 # files:
 #   slides: https://docs.google.com/presentation/d/1wqFpb2qZThiAa3PQpbRrbwdJpESSu6JmXJUuzOx8OnA/edit?usp=sharing

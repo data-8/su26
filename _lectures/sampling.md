@@ -1,6 +1,6 @@
 ---
 published: true
-# presented_by: John DeNero
+presented_by: Jeremy Sanchez
 title: Sampling and Empirical Distributions
 # files:
 #   slides: https://docs.google.com/presentation/d/1xAkDGmlmbNGQQ0T4Gq2yHsr4OQFjzQPd0axdPL4aFJE/edit

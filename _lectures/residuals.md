@@ -1,6 +1,6 @@
 ---
 published: true
-# presented_by: John DeNero
+presented_by: Jeremy Sanchez
 title: Residuals and Diagnostics
 # files:
 #   slides: https://docs.google.com/presentation/d/1ZXxZH_dVablFt5Qim8Y2ZHWviCi1RMrJQ3b-xs9qxvI/edit

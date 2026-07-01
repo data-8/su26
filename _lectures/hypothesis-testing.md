@@ -1,6 +1,6 @@
 ---
 published: true
-# presented_by: John DeNero
+presented_by: Jeremy Sanchez
 title: Hypothesis Testing
 # files:
 #   slides: https://docs.google.com/presentation/d/1xWeqLW20i-jyQxK-Tv5D5Wafx8gA9ou5RHa1OYYAm9M/edit

@@ -1,6 +1,6 @@
 ---
 published: true
-# presented_by: John DeNero
+presented_by: Jeremy Sanchez
 title: Text Classification
 # files:
 #   slides: https://docs.google.com/presentation/d/1p612X_Dqp7dulTvlbgw0lArU_o5SbSjv0-hgutmm0JA/edit

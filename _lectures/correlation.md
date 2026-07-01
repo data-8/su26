@@ -1,6 +1,6 @@
 ---
 published: true
-# presented_by: John DeNero
+presented_by: Jeremy Sanchez
 title: Correlation
 # files:
 #   slides: https://docs.google.com/presentation/d/1Zj9hDI5mVE2UHUOsorMoLKVaPMx1pxUUyRoRVvIdj1A/edit

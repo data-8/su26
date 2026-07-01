@@ -1,6 +1,6 @@
 ---
 published: true
-# presented_by: John DeNero
+presented_by: Jeremy Sanchez
 title: Groups, Pivots, and Joins
 # files:
 #   slides: https://docs.google.com/presentation/d/10eNc63QHlgVT_cQREfH5iio4v1KliZwPPi79eQtEvIw/edit

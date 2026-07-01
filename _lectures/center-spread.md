@@ -1,6 +1,6 @@
 ---
 published: true
-# presented_by: John DeNero
+presented_by: Jeremy Sanchez
 title: Center and Spread
 # files:
 #   slides: https://docs.google.com/presentation/d/1z_LAnpkAFHVWJ-8nPm1lEGd4KZZMymaOtINzg1luORs/edit?usp=sharing

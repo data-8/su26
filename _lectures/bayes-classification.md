@@ -1,6 +1,6 @@
 ---
 published: true
-# presented_by: John DeNero
+presented_by: Jeremy Sanchez
 title: Bayes' Classification
 # files:
 #   slides: https://docs.google.com/presentation/d/1rI5umSX8obi4Pre6CMyfK4U3FzUMMPiHHzW3235_UOk/edit?usp=sharing

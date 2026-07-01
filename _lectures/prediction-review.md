@@ -1,6 +1,6 @@
 ---
 published: true
-# presented_by: John DeNero
+presented_by: Jeremy Sanchez
 title: Prediction Review
 # files:
 #   slides: https://docs.google.com/presentation/d/1dCWzKhK4niQ8-bY_tc4pEhdRrjlT-RNwj8mA7NSIm3w/edit

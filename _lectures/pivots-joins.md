@@ -1,6 +1,6 @@
 ---
 published: true
-# presented_by: John DeNero
+presented_by: Jeremy Sanchez
 title: Pivots and Joins
 # files:
 #   slides: https://docs.google.com/presentation/d/1xH1eLcFD5s45wMcG6j2HtTLcDKlBT3BAPkTv6-u-rvY/edit

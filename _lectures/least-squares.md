@@ -1,6 +1,6 @@
 ---
 published: true
-# presented_by: John DeNero
+presented_by: Jeremy Sanchez
 title: Least Squares
 # files:
 #   slides: https://docs.google.com/presentation/d/1WUDMm5CDLMv_y00pD98Mi523J7p-ByDTfUFAP1uUlQc/edit

@@ -1,6 +1,6 @@
 ---
 published: true
-# presented_by: John DeNero
+presented_by: Jeremy Sanchez
 title: Regression Inference
 # files:
 #   slides: https://docs.google.com/presentation/d/1MDwwN5I7_MhyN_RN8BtCSWNmp-rGJotbARV9J47xsuM/edit?usp=sharing
