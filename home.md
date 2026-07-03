@@ -10,10 +10,9 @@ permalink: /
 
 
 # **Data 8: Foundations of Data Science**
+## UC Berkeley, Summer 2026 
+{: .mb-2 .fs-6 .text-grey-dk-000 style="margin-top: 0;"  }
 
-{: .mb-2 }
-UC Berkeley, Summer 2026
-{: .mb-2 .fs-6}
 
 [Ed](https://edstem.org/us/courses/99820/discussion){: .btn .btn-ed}
 [Pensieve](https://www.pensieve.co/student/classes/data8_su26/my-assignments){: .btn .btn-pensieve}
