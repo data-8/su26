@@ -22,6 +22,7 @@
 
   .staffer-badge {
     @extend .label, .text-grey-dk-300, .bg-grey-lt-200;
+    font-family: $body-font-family !important;
 
     -webkit-user-select: none;
     user-select: none;
