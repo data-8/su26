@@ -21,7 +21,7 @@ homework:
   - title: Table Manipulation and Visualization (due July 3)
     link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&urlpath=tree%2Fmaterials-su26%2Fhw%2Fhw03%2Fhw03.ipynb"
   - title: Functions, Tables, and Groups (due July 7)
-    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&urlpath=tree%2Fmaterials-su26%2Fhw%2Fhw04%2Fhw04.ipynb"
+    link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&urlpath=tree%2Fmaterials-su26%2Fhw%2Fhw04%2Fhw04.ipynb"
   - skip: true
   - title: Chance, Empirical Probability Distribution (due July 10)
     # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&urlpath=tree%2Fmaterials-su26%2Fhw%2Fhw05%2Fhw05.ipynb"
