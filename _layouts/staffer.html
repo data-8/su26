@@ -14,8 +14,12 @@
       {%- if page.pronouns -%}
       <span class="staffer-badge">{{ page.pronouns }}</span>
       {%- endif -%}
-      {%- if page.team -%}
-      <span class="staffer-badge label-{{ page.team }}">{{ page.team }}</span>
+      {%- if page.teams -%}
+        {%- for team in page.teams -%}
+        <span class="staffer-badge label-{{ team }}">{{ team }}</span>
+        {%- endfor -%}
+      {%- elsif page.team -%}
+        <span class="staffer-badge label-{{ page.team }}">{{ page.team }}</span>
       {%- endif -%}
       {%- if page.access_email -%}
       <span class="staffer-badge">{{ site.course_email }}</span>
@@ -31,7 +35,11 @@
     <p class="staffer-meta">Section: {{ page.section | markdownify | strip_html }}</p>
     {%- endif -%}
     {%- if page.office_hours -%}
-    <p class="staffer-meta">Office Hours: {{ page.office_hours | markdownify | strip_html }}</p>
+    
+    <p class="staffer-office-hours-front"> 
+      <span class="office-hours-label">Office Hours:</span> {{ page.office_hours | markdownify | strip_html }}
+    </p>
+    
     {%- endif -%}
     {{ content }}
   </div>
