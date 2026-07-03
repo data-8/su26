@@ -21,20 +21,22 @@ labs:
     link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&branch=main&urlpath=tree%2Fmaterials-su26%2Flab%2Flab03%2Flab03.ipynb"
   - title: Functions and Visualizations (due July 3)
     link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&branch=main&urlpath=tree%2Fmaterials-su26%2Flab%2Flab04%2Flab04.ipynb"
-  - title: Simulations (due July 8)
+  - skip: true # project 1 working time
+  - title: Simulations (due July 10)
     # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&branch=main&urlpath=tree%2Fmaterials-su26%2Flab%2Flab05%2Flab05.ipynb"
-  - title: Examining the Therapeutic Touch (due July 10)
+  - skip: true  # project 1 due date
+  
+  - title: Examining the Therapeutic Touch (due July 17)
     # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&branch=main&urlpath=tree%2Fmaterials-su26%2Flab%2Flab06%2Flab06.ipynb"
-  - title: Great British Bakeoff—A/B Testing (due July 15)
+ 
+  - title: Great British Bakeoff—A/B Testing (due July 22)
     # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&branch=main&urlpath=tree%2Fmaterials-su26%2Flab%2Flab07%2Flab07.ipynb"
-  - skip: true # midterm
-  - title: Normal Distribution and Variability of Sample Means (Due July 22)
+  - title: Normal Distribution and Variability of Sample Means (Due July 24)
     # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&branch=main&urlpath=tree%2Fmaterials-su26%2Flab%2Flab08%2Flab08.ipynb"
-  - title: Regression (Due July 24)
+  - title: Regression (Due July 29)
     # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&branch=main&urlpath=tree%2Fmaterials-su26%2Flab%2Flab09%2Flab09.ipynb"
-  - title: Conditional Probability (Due July 29)
+  - title: Climate Part 1  (Due July 31)
     # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&branch=main&urlpath=tree%2Fmaterials-su26%2Flab%2Flab10%2Flab10.ipynb"
-  - title: Lab 11 (Due July 31)
-  - title: Lab 12 (Due August 5)
+  - title: Climate Part 2 (Due August 5)
+  - title: Conditional Probability (Due August 7)
   - skip: true
-  - title: Lab 13 (Due August 12)
