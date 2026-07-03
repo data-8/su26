@@ -153,7 +153,6 @@
 
 .team {
   font-weight: bold !important;
-  font-family: $body-font-family !important;
   display: inline-block;
   padding-top: 0.16em;
   padding-bottom: 0.16em;
@@ -171,6 +170,9 @@
 .staffer-pronouns {
   @extend .text-grey-dk-100, .bg-grey-lt-200;
   font-family: $body-font-family;
+  
+
+
 }
 
 // Team color styles - these must override the default .staffer-badge grey background

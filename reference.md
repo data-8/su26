@@ -9,9 +9,6 @@ description: >-
 # **Detailed Python Reference Sheet**
 
 {:.no_toc}
-Created by Nishant Kheterpal and Jessica Hu; contributions by Jonathan Ferrari, Edwin Vargas, Bing Concepcion, Tim Xie, and Isaac Chung
-
-Updated and maintained by Marissa Lumpkin
 ## Table of Contents
 {: .no_toc .text-delta }
 
@@ -162,3 +159,9 @@ First, to enter shortcut mode / exit editing mode, press `Esc`. This will enable
 |Paste cell above|`Shift` + `v`|
 |Redo|`Ctrl` + `Shift` + `z`|
 |Undo|`Ctrl` + `z`|
+
+
+# **Acknowledgments** 
+Created by Nishant Kheterpal and Jessica Hu <br>
+Contributions by Jonathan Ferrari, Edwin Vargas, Bing Concepcion, Tim Xie, Isaac Chung and Marissa Lumpkin <br>
+Updated and maintained by Richard Villagomez
