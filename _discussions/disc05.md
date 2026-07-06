@@ -1,7 +1,7 @@
 ---
 title: Discussion 5
 description: Table Methods, Conditionals & Iteration
- links:
+links:
      - name: Blank
        url: https://drive.google.com/file/d/1SWJcmrEQeLM8fhmVbyJlg7Wok8P8J_-Y/view?usp=sharing 
 #     - name: Solutions
