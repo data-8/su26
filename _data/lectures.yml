@@ -96,9 +96,6 @@ lectures:
             url: https://inferentialthinking.com/chapters/09/Randomness.html
           - text: 9.1
             url: https://inferentialthinking.com/chapters/09/1/Conditional_Statements.html
-  - slug: "iteration"
-    readings:
-      - links:
           - text: 9.2
             url: https://inferentialthinking.com/chapters/09/2/Iteration.html
   - slug: "probability"
