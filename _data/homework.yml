@@ -24,7 +24,7 @@ homework:
     link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&urlpath=tree%2Fmaterials-su26%2Fhw%2Fhw04%2Fhw04.ipynb"
   - skip: true
   - title: Chance, Empirical Probability Distribution (due July 10)
-    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&urlpath=tree%2Fmaterials-su26%2Fhw%2Fhw05%2Fhw05.ipynb"
+    link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&urlpath=tree%2Fmaterials-su26%2Fhw%2Fhw05%2Fhw05.ipynb"
   - skip: true # thursday
   - title: Assessing Models and Testing Hypotheses (due July 14)
     # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&urlpath=tree%2Fmaterials-su26%2Fhw%2Fhw06%2Fhw06.ipynb"
