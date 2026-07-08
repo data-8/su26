@@ -23,7 +23,7 @@ labs:
     link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&branch=main&urlpath=tree%2Fmaterials-su26%2Flab%2Flab04%2Flab04.ipynb"
   - skip: true # project 1 working time
   - title: Simulations (due July 10)
-    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&branch=main&urlpath=tree%2Fmaterials-su26%2Flab%2Flab05%2Flab05.ipynb"
+    link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&branch=main&urlpath=tree%2Fmaterials-su26%2Flab%2Flab05%2Flab05.ipynb"
   - skip: true  # project 1 due date
   
   - title: Examining the Therapeutic Touch (due July 17)
