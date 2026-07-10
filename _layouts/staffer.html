@@ -11,6 +11,7 @@
       {%- else -%}
       {{ page.name }}
       {%- endif -%}
+          </h3>
       {%- if page.pronouns -%}
       <span class="staffer-pronouns ">{{ page.pronouns }}</span>
       {%- endif -%}
@@ -27,7 +28,7 @@
       {%- if page.access_dsp -%}
       <span class="staffer-badge">DSP</span>
       {%- endif -%}
-    </h3>
+
     {%- if page.email -%}
     <span class="staffer-email"><a href="mailto:{{ page.email }}">{{ page.email }}</a></span>
     {%- endif -%}
