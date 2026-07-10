@@ -7,8 +7,6 @@ nav_order: 4
 
 # **Staff**
 
-Jump to: [Instructors](#instructors), [Teaching Assistants](#teaching-assistants), [Tutors](#tutors)
-
 **Email [data8@berkeley.edu](mailto:data8@berkeley.edu) for all logistical and student support questions!**
 
 
