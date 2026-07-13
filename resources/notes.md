@@ -7,6 +7,8 @@ parent: "&#x1F4DA; Resources"
 published: true
 ---
 
+# Notes and Guides
+
 ## Notes
 
 These notes serve as supplementary readings and may not necessarily align with lecture and textbook content. These notes aim to serve as a concise overview of course content, which you may find helpful during exam preparation or as a quick refresher.
