@@ -27,7 +27,7 @@ labs:
 
   
   - title: Examining the Therapeutic Touch (due July 15)
-    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&branch=main&urlpath=tree%2Fmaterials-su26%2Flab%2Flab06%2Flab06.ipynb"
+    link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&branch=main&urlpath=tree%2Fmaterials-su26%2Flab%2Flab06%2Flab06.ipynb"
   - skip: true  # midterm 
   - title: Great British Bakeoff—A/B Testing (due July 22)
     # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&branch=main&urlpath=tree%2Fmaterials-su26%2Flab%2Flab07%2Flab07.ipynb"
