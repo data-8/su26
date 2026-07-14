@@ -13,7 +13,7 @@ published: true
 
 Exams, practice exams, and walkthrough videos from previous semesters can be found below. These exams may differ in terms of material covered and syntax used, as the datascience library has changed over time.
 
-Students receive this [reference sheet](https://drive.google.com/file/d/1MGa2pWZ7ZFFjeyTVb58i8qQAOJ8_Qxuu/view?usp=drive_link).
+Students receive this [reference sheet](https://drive.google.com/file/d/1OD3ix5Ffch5vZGaJlDX6KSwc9Dfyov-D/view).
 
 {% include past-exams.md %}
 
