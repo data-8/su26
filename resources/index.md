@@ -9,7 +9,7 @@ layout: page
 nav_order: 5
 ---
 
-# &#x1F4DA; Resources	
+# **Resources**	
 {:.no_toc}
 
 Resources for succeeding in Data 8.

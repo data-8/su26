@@ -7,7 +7,7 @@ parent: "&#x1F4DA; Resources"
 published: true
 ---
 
-# Notes and Guides
+# **Notes and Guides**
 
 ## Notes
 

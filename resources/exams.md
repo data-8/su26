@@ -7,7 +7,7 @@ parent: "&#x1F4DA; Resources"
 published: true
 ---
 
-# Exam Resources
+# **Exam Resources**
 
 ## Past Exams
 
