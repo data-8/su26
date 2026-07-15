@@ -92,7 +92,7 @@ The remaining 10% of credit will be awarded for submitting the programming-based
 
 #### How Should You Submit The Programming-Based Assignment?
 
-[Here](https://drive.google.com/file/d/1H9UwEb7uQrc1eK0PKGxtu95woP4IcyGI/view?usp=sharing) is a video for how to submit the programming assignment to Pensieve. Before posting about code errors, please check our [debugging page](https://www.data8.org/su26/debugging/)! We have listed common errors and reasons why they might be coming up for you.
+[Here](https://drive.google.com/file/d/1H9UwEb7uQrc1eK0PKGxtu95woP4IcyGI/view?usp=sharing) is a video for how to submit the programming assignment to Pensive. Before posting about code errors, please check our [debugging page](https://www.data8.org/su26/debugging/)! We have listed common errors and reasons why they might be coming up for you.
 
 
 

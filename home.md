@@ -15,7 +15,7 @@ permalink: /
 
 
 [Ed](https://edstem.org/us/courses/99820/discussion){: .btn .btn-ed}
-[Pensieve](https://www.pensieve.co/student/classes/data8_su26/my-assignments){: .btn .btn-pensieve}
+[Pensive](https://www.pensieve.co/student/classes/data8_su26/my-assignments){: .btn .btn-pensieve}
 <!--[Zoom](https://berkeley.zoom.us/j/93726258803){: .btn .btn-zoom} -->
 [Lecture Recordings](https://bcourses.berkeley.edu/courses/1555312/external_tools/90481){: .btn .btn-bcourses}
 [Office Hours Queue](https://oh.data8.org/){: .btn .btn-officehours}
