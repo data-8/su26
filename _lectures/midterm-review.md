@@ -1,6 +1,6 @@
 ---
 published: true
-presented_by: Jeremy Sanchez
+presented_by: Soumyadeep Talukdar, Elizabeth Gonzalez, Tai Dinh, Lena Todd
 title: Midterm Review
 # files:
 #   slides: https://docs.google.com/presentation/d/1NI1MrzuI3iJ78sEIHTBFAqFG23Cp9J0QbIMy5aM669U/edit?usp=sharing

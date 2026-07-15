@@ -6,9 +6,8 @@ website: https://richardvillagomez.notion.site/data8-su26-richard
 photo: richard.png
 pronouns: he/him
 office_hours: Tuesdays 1-4pm; Thursdays 1-4pm
-teams: 
-- Content
-- Pedagogy
+team: Content
+
 access_email: 
 access_dsp: 
 ---

@@ -144,16 +144,8 @@ lectures:
             url: https://inferentialthinking.com/chapters/12/2/Causality.html
           - text: 12.3
             url: https://inferentialthinking.com/chapters/12/3/Deflategate.html
-  - skip: true
-  - slug: "confidence-intervals"
-    readings:
-      - links:
-          - text: 13
-            url: https://inferentialthinking.com/chapters/13/Estimation.html
-          - text: 13.1
-            url: https://inferentialthinking.com/chapters/13/1/Percentiles.html
-          - text: 13.2
-            url: https://inferentialthinking.com/chapters/13/2/Bootstrap.html
+  - slug: "midterm-review"
+  - skip: true # Midterm
   - slug: "interpreting-confidence"
     readings:
       - links:
