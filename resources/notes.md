@@ -22,6 +22,7 @@ These notes serve as supplementary readings and may not necessarily align with l
 
 ## Other Resources
 
+- [Hypothesis Testing Guide](https://drive.google.com/file/d/1s9e252XRIUYxNeI8dNG4D0f8B9iwEv6x/view)
 - [JupyterHub Tips](https://drive.google.com/file/d/1vA4x3RIwCq8jY4KvTRpqrnmASS7Se1Bn/view?usp=sharing){:target="\_blank"}
 - [Arrays Primer](https://drive.google.com/file/d/1SzpKe_SnFf9_mkLyhETz5-AiaBJBYJDv/view?usp=sharing){:target="\_blank"}
 - Tables: [Table Tutor](https://www.data8.org/table-function-visualizer), [Tabular Thinking](https://drive.google.com/file/d/1D9PXUgDLXjFBXZoyGVSKpzk0nKQziDTP/view?usp=sharing){:target="\_blank"}, [Table Method Visualizer](https://www.data8.org/interactive_table_functions/){:target="\_blank"}, [Table Methods](https://drive.google.com/file/d/1j2hjhweJdGWW0EdvmjGHsXFUatXIZax4/view?usp=sharing){:target="\_blank"}
