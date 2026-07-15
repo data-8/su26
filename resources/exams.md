@@ -20,6 +20,6 @@ Students receive this [reference sheet](https://drive.google.com/file/d/1OD3ix5F
 
 ## Exam Problems by Topic
 
-- A review document identifying past exam problems by topic can be found [here!](https://docs.google.com/document/d/1ZjEpBprnr_AL0z4axkTuhZ61Sm6OEVSwfWS7Z6k2D-4/edit?usp=sharing){:target="\_blank"}
-- Created by Brandon Concepcion
+<!-- _A review document identifying past exam problems by topic can be found [here!](https://docs.google.com/document/d/1ZjEpBprnr_AL0z4axkTuhZ61Sm6OEVSwfWS7Z6k2D-4/edit?usp=sharing){:target="\_blank"}_  -->
+
 {% include resources-content.html %}

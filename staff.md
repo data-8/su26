@@ -7,8 +7,9 @@ nav_order: 4
 
 # **Staff**
 
-**Email [data8@berkeley.edu](mailto:data8@berkeley.edu) for all logistical and student support questions!**
 
+{: .important }
+> Email [data8@berkeley.edu](mailto:data8@berkeley.edu) for student support questions and personal matters.
 
 
 ## Instructors
