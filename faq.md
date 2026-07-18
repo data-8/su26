@@ -1,6 +1,6 @@
 ---
 layout: page
-nav_order: 6
+nav_order: 7
 title: 🤔 FAQs & Debugging
 description: >-
     Frequently Asked Questions and Debugging Tips

@@ -21,7 +21,7 @@ description: >-
 
 Students will receive an abbreviated reference sheet for exams.
 
-* [Past Midterm Reference Sheet](https://drive.google.com/file/d/1OD3ix5Ffch5vZGaJlDX6KSwc9Dfyov-D/view)
+* [Exam Reference Sheet](https://drive.google.com/file/d/1VnCVrfqRSzRQcAWVFaz6fuNXxUYD-9KZ/view?usp=sharing)
 
 ---
 
