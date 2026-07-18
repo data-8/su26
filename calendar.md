@@ -1,6 +1,6 @@
 ---
 layout: calendar_dynamic
-title: 🏢 Weekly Calendar & OH
+title: 🗓️ Calendar
 description: The weekly event schedule.
 nav_order: 2
 ---

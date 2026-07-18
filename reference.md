@@ -1,6 +1,6 @@
 ---
 layout: page
-nav_order: 9
+nav_order: 4
 title: 🐍 Python Reference
 description: >-
     Python Reference Guide
