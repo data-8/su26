@@ -18,7 +18,7 @@ permalink: /
 [Pensive](https://www.pensieve.co/student/classes/data8_su26/my-assignments){: .btn .btn-pensieve}
 <!--[Zoom](https://berkeley.zoom.us/j/93726258803){: .btn .btn-zoom} -->
 [Lecture Recordings](https://bcourses.berkeley.edu/courses/1555312/external_tools/90481){: .btn .btn-bcourses}
-[Office Hours Queue](https://oh.data8.org/){: .btn .btn-officehours}
+[Office Hours](https://oh.data8.org/){: .btn .btn-officehours}
 <!-- [Extensions](https://docs.google.com/forms/d/e/1FAIpQLScZ_AK4ZvHAHjrPw17XcUw1q28gUiemUEwawhQ4hDwhsQSnUQ/viewform?usp=dialog){: .btn .btn-extensions} -->
 [Jump to Current Week](https://www.data8.org/su26/#week-{{site.current_week}}){: .btn .btn-currweek}
 

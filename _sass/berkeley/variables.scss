@@ -6,9 +6,9 @@ $content-width: 1200px;
 
 // Typography
 $mono-font-family: "Source Code Pro", "SFMono-Regular", menlo, consolas, monospace !default;
-$body-font-family: 'Inter', system-ui, -apple-system, blinkmacsystemfont, "Segoe UI",
-roboto, "Helvetica Neue", arial, sans-serif, "Segoe UI Emoji" !default;
-$serif-font-family: 'Source Serif 4', 'Georiga', 'Baskerville', serif;
+$body-font-family: "Helvetica Neue", Helvetica, system-ui, -apple-system, blinkmacsystemfont, "Segoe UI",
+roboto, arial, sans-serif, "Segoe UI Emoji";
+$serif-font-family: 'Palatino', 'Georgia', 'Baskerville','Source Serif 4', 'Georiga',  serif;
 
 $berkeley-blue-old: #003262;
 $berkeley-blue: #002676; // rgb(0, 38, 118);
