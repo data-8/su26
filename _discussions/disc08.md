@@ -4,7 +4,7 @@ description: More Midterm Review
 links:
      - name: Blank
        url: https://drive.google.com/file/d/1FFohCE4W8prQU944Q0YIVLzNcqXXkNQ4/view?usp=sharing
-     - name: Solution
+     - name: Solutions
        url: https://drive.google.com/file/d/1XEIOuefqJg7GCrzR5WuRObKnzAY4rWxe/view?usp=sharing
     # - name: OATutor Online Worksheet
     #   url: https://bcourses.berkeley.edu/courses/1551541/assignments/9058607
