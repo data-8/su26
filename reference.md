@@ -164,4 +164,4 @@ First, to enter shortcut mode / exit editing mode, press `Esc`. This will enable
 # **Acknowledgments** 
 Created by Nishant Kheterpal and Jessica Hu <br>
 Contributions by Jonathan Ferrari, Edwin Vargas, Bing Concepcion, Tim Xie, Isaac Chung and Marissa Lumpkin <br>
-Updated and maintained by Richard Villagomez
+Updated and maintained by Richard Villagomez :]

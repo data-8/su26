@@ -11,23 +11,20 @@
       {%- else -%}
       {{ page.name }}
       {%- endif -%}
-          </h3>
+    </h3>
+    
+    <span class="staffer-labels">
       {%- if page.pronouns -%}
-      <span class="staffer-pronouns ">{{ page.pronouns }}</span>
+      <span class="staffer-pronouns">{{ page.pronouns }}</span>
       {%- endif -%}
       {%- if page.teams -%}
         {%- for team in page.teams -%}
         <span class="staffer-badge label-{{ team }}">{{ team }}</span>
         {%- endfor -%}
       {%- elsif page.team -%}
-        <span class="staffer-badge label-{{ page.team }}">{{ page.team }}</span>
+      <span class="staffer-badge label-{{ page.team }}">{{ page.team }}</span>
       {%- endif -%}
-      {%- if page.access_email -%}
-      <span class="staffer-badge">{{ site.course_email }}</span>
-      {%- endif -%}
-      {%- if page.access_dsp -%}
-      <span class="staffer-badge">DSP</span>
-      {%- endif -%}
+    </span>
 
     {%- if page.email -%}
     <span class="staffer-email"><a href="mailto:{{ page.email }}">{{ page.email }}</a></span>

@@ -32,6 +32,14 @@
     gap: 0.7rem !important;
   }
 
+  .staffer-labels {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.2rem 0.1rem; // row gap | column gap — bump row gap if still tight
+    margin: $sp-1 0;
+  }
+
   .staffer-pronouns {
     @extend .label, .text-grey-dk-100, .bg-grey-lt-200;
     margin: 0 !important;
