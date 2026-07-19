@@ -1,7 +1,10 @@
 ---
 layout: page
-nav_order: 7
-title: 🤔 FAQs & Debugging
+tagline: FAQs & Debugging
+title: FAQs & Debugging
+permalink: /resources/faq/
+parent: "&#x1F4DA; Resources"
+
 description: >-
     Frequently Asked Questions and Debugging Tips
 ---
