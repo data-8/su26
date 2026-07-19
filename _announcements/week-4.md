@@ -1,5 +1,5 @@
 ---
-title: Week 4
+title: Week 4 Announcements
 week: 4
 ---
 
