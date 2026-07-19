@@ -319,6 +319,9 @@
                             {%- else -%}
                                 <span>{{ display_title }}</span>
                             {%- endif -%}
+                            {%- if lab_entry.due -%}
+                                <span class="syllabus-due"> (due {{ lab_entry.due }})</span>
+                            {%- endif -%}
                         </div>
                     {%- endunless -%}
 
@@ -369,6 +372,9 @@
                                 <a href="{{ display_link }}">{{ display_title }}</a>
                             {%- else -%}
                                 <span>{{ display_title }}</span>
+                            {%- endif -%}
+                            {%- if hw_entry.due -%}
+                                <span class="syllabus-due"> (due {{ hw_entry.due }})</span>
                             {%- endif -%}
                         </div>
                     {%- endunless -%}
