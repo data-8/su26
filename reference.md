@@ -6,7 +6,7 @@ description: >-
     Python Reference Guide
 ---
 
-# **Detailed Python Reference Sheet**
+# **Python Reference**
 
 {:.no_toc}
 ## Table of Contents
@@ -19,9 +19,8 @@ description: >-
 
 ## Abbreviated Reference Sheet
 
-Students will receive an abbreviated reference sheet for exams.
+Students will receive an [abbreviated reference sheet](https://drive.google.com/file/d/1VnCVrfqRSzRQcAWVFaz6fuNXxUYD-9KZ/view?usp=sharing) for exams.
 
-* [Exam Reference Sheet](https://drive.google.com/file/d/1VnCVrfqRSzRQcAWVFaz6fuNXxUYD-9KZ/view?usp=sharing)
 
 ---
 
@@ -132,7 +131,7 @@ These are functions in the `datascience` library that are used in the course tha
 | `sample_proportions(n, model_proportions)` | `n` should be an integer; `model_proportions` should be an array of probabilities that sum up to 1. The function samples `n` objects from the distribution specified by `model_proportions`. It returns an array with the same size as `model_proportions`. Each item in the array corresponds to the proportion of times it was sampled out of the `n` times. ([Ch 11.1](https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html)) | 1. **int**: sample size <br> 2. **array**: an array of proportions; sums to 1 | **array**: proportion of times that each item was sampled from `model_proportions` in `n` samples; sums to 1 |
 | `minimize(function)` | Returns an array of values such that if each value in the array was passed into `function` as arguments, it would minimize the output value of `function`. ([Ch 15.4](https://www.inferentialthinking.com/chapters/15/4/Least_Squares_Regression)) | **function**: name of function to minimize | **array**: arguments that minimize the function (order matches function’s arguments) |
 
-## Histogram Bounds Language
+# Histogram Bounds Language
 
 Histogram bins include the data at their left endpoint, but not the data at their right endpoint. The only exception is the rightmost bin, which includes *both* endpoints. When we ask you questions relating to ranges of values in the bins of histograms, we will use one of the three phrases below.
 
@@ -141,7 +140,7 @@ Histogram bins include the data at their left endpoint, but not the data at thei
 | Between or equal to x and y | Greater than or equal to x and less than or equal to y |
 | Strictly between x and y | Greater than x and less than y |
 
-## JupyterHub Keyboard Shortcuts
+# JupyterHub Keyboard Shortcuts
 First, to enter shortcut mode / exit editing mode, press `Esc`. This will enable you to use any of the keyboard shortcuts below.
 
 |Operation|Keys|
