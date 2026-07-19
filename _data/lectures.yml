@@ -9,6 +9,8 @@
 
 # nonumber supresses the label and numbering for the lecture entry
 # skip: true will omit the lecture from the schedule entirely
+# label overrides the default "Lecture N" text (e.g. "Lecture 14 and 15")
+# number_increment advances the lecture counter (default 1; use 2 with a combined label)
 
 # link overrides the default link to the lecture page from the collection if
 # you provided a slug or provides an external link
@@ -116,6 +118,8 @@ lectures:
           - text: 10.1
             url: https://inferentialthinking.com/chapters/10/1/Empirical_Distributions.html
   - slug: "hypothesis-testing"
+    label: "Lecture 14 & 15"
+    number_increment: 2
     readings:
       - links:
           - text: 10.2

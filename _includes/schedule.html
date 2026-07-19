@@ -154,8 +154,13 @@
 
                             {%- comment -%} 3. RENDER LABEL (Unless nonumber is true) {%- endcomment -%}
                             {%- unless lec_entry.nonumber -%}
+                                {%- if lec_entry.label -%}
+                                <strong class="label label-lecture">{{ lec_entry.label }}</strong>
+                                {%- else -%}
                                 <strong class="label label-lecture">Lecture {{ lecture_number }}</strong>
-                                {%- assign lecture_number = lecture_number | plus: 1 -%}
+                                {%- endif -%}
+                                {%- assign lecture_increment = lec_entry.number_increment | default: 1 -%}
+                                {%- assign lecture_number = lecture_number | plus: lecture_increment -%}
                             {%- endunless -%}
 
                             {%- comment -%} 4. RENDER LINK OR TITLE {%- endcomment -%}
