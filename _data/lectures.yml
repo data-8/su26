@@ -151,6 +151,15 @@ lectures:
             url: https://inferentialthinking.com/chapters/12/3/Deflategate.html
   - slug: "midterm-review"
   - skip: true # Midterm
+  - slug: "confidence-intervals"
+    readings:
+      - links:
+          - text: 13 
+            url: https://inferentialthinking.com/chapters/13/estimation/
+          - text: 13.1
+            url: https://inferentialthinking.com/chapters/13/1/percentiles/
+          - text: 13.2
+            url: https://inferentialthinking.com/chapters/13/2/bootstrap/
   - slug: "interpreting-confidence"
     readings:
       - links:
@@ -174,16 +183,13 @@ lectures:
             url: https://inferentialthinking.com/chapters/14/3/SD_and_the_Normal_Curve.html
           - text: 14.4
             url: https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html
-  - slug: "sample-means"
-    readings:
-      - links:
-          - text: 14.5
-            url: https://inferentialthinking.com/chapters/14/5/Variability_of_the_Sample_Mean.html
   - slug: "correlation"
     readings:
       - links:
           - text: 15.1
             url: https://inferentialthinking.com/chapters/15/1/Correlation.html
+          - text: 14.5
+            url: https://inferentialthinking.com/chapters/14/5/Variability_of_the_Sample_Mean.html
   - slug: "linear-regression"
     readings:
       - links:
