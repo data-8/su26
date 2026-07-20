@@ -11,4 +11,5 @@ Welcome to _Week 5_ of Data 8! Congratulations on completing the midterm!!!
     * Lab 08 is due on *<u>Friday</u>, July 24 @ 11:59 PM*
     * Homework 07 is due on *<u>Friday</u>, July 24 @ 11:59 PM*
     * Homework 08 is due on *<u>Tuesday</u>, July 28 @ 11:59 PM*
+2. [Post-midterm tutoring sections](https://edstem.org/us/courses/99820/discussion/8167097) are live!
 
