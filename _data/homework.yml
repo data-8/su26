@@ -40,7 +40,7 @@ homework:
   - skip: true # midterm
   - title: Confidence Intervals
     due: July 24
-    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&urlpath=tree%2Fmaterials-su26%2Fhw%2Fhw07%2Fhw07.ipynb"
+    link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&urlpath=tree%2Fmaterials-su26%2Fhw%2Fhw07%2Fhw07.ipynb"
   - skip: true # thursday
   - title: Sample Sizes and Confidence Intervals
     due: July 28
