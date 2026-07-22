@@ -131,7 +131,7 @@ For in-person students: all exams will be held in-person. In-person exams are va
 
 For online students: we will send out a form that will allow you to choose between taking the exam in-person or remotely. In order to preserve the integrity of the test for all students, the remote exam requires a rigorous setup process on the part of the student. This process must be strictly adhered to, and any violation of the process, to any degree, will result in an automatic 0 on the exam. 
 
-The midterm exam will be held in-person on Friday, August 17, from 11am-1pm PT.
+The midterm exam will be held in-person on Friday, July 17, from 11am-1pm PT. If you are unable to take the midterm, reach out to data8@berkeley.edu as soon as possible, and we will likely plan to have your midterm score upweighted by your final exam score.
 
 The final exam is required for a passing grade, and will be held in-person on Friday, August 14 from 11am-2pm PT.
 
