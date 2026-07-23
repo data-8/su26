@@ -183,13 +183,16 @@ lectures:
             url: https://inferentialthinking.com/chapters/14/3/SD_and_the_Normal_Curve.html
           - text: 14.4
             url: https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html
+  - slug: "variance-sample-means"
+    readings:
+      - links:
+          - text: 14.5
+            url: https://inferentialthinking.com/chapters/14/5/Variability_of_the_Sample_Mean.html
   - slug: "correlation"
     readings:
       - links:
           - text: 15.1
             url: https://inferentialthinking.com/chapters/15/1/Correlation.html
-          - text: 14.5
-            url: https://inferentialthinking.com/chapters/14/5/Variability_of_the_Sample_Mean.html
   - slug: "linear-regression"
     readings:
       - links:
@@ -232,11 +235,6 @@ lectures:
           - text: 17.5
             url: https://inferentialthinking.com/chapters/17/5/Accuracy_of_the_Classifier.html
   - slug: "bayes-classification"
-  - slug: "text-classification"
-    readings:
-      - links:
-          - text: 17.6
-            url: https://inferentialthinking.com/chapters/17/6/Multiple_Regression.html
   - slug: "multiple-lin-regression"
   - slug: "exploration-review"
   - slug: "inference-review"
