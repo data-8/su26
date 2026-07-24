@@ -184,6 +184,8 @@ lectures:
           - text: 14.4
             url: https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html
   - slug: "variance-sample-means"
+    label: "Lecture 24 & 25"
+    number_increment: 2
     readings:
       - links:
           - text: 14.5
