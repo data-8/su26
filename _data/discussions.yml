@@ -33,11 +33,13 @@ discussions:
     slug: "disc09"
   - title: The Central Limit Theorem
     slug: "disc10"
-  - title: Correlation & Regression
+  - title: More CLT & Correlation
     slug: "disc11"
-  - title: Residuals
+  - title: Regression
     slug: "disc12"
-  - title: Intervals for Predictions & kNN Classification
+  - title: Residuals
     slug: "disc13"
-  - title: Bayes & More Classification
+  - title: Intervals for Predictions & kNN Classification
     slug: "disc14"
+  - title: Bayes & More Classification
+    slug: "disc15"
