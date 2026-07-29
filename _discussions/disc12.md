@@ -1,6 +1,6 @@
 ---
 title: Discussion 12
-description: Residuals
+description: Regression
 links:
      - name: Blank
        url: https://drive.google.com/file/d/1soG7LUoBnBQAh2R0Vqa1M8D11TKun7qy/view?usp=sharing
