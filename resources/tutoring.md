@@ -17,5 +17,7 @@ published: true
 | Tutoring #4: Iteration and Chance | [Worksheet](https://drive.google.com/file/d/1XZb6loFo01lGCqQQ0Z2o0zbOlnZYIvg8/view), [Solutions](https://drive.google.com/file/d/1ik59iquMdrcfKnNtpae_OQS-nWuqNxID/view) |
 | Tutoring #5: Sampling, Hypothesis Testing, and Decisions | [Worksheet](https://drive.google.com/file/d/1fBqLoyBalgAL0fBi90iYO8nm12armW4F/view?usp=sharing), [Solutions](https://drive.google.com/file/d/1gjMBqToS518LHlWKP-HjIqZqSF1l5T7L/view?usp=sharing) |
 | Tutoring #6: Midterm Review  | [Worksheet](https://drive.google.com/file/d/11lfNgjcaTXTNdPezfmB6Mlpg6JrYoxjZ/view), [Solutions](https://drive.google.com/file/d/1YRdxYrv4iVQmKj6UoyZV4PrdewmSCvH1/view?usp=sharing) |
-| Tutoring #7: Confidence Intervals  | [Worksheet](https://drive.google.com/file/d/11KZndOBkKiPLg7uLEYuhOY01jlwpsKmo/view), Solutions |
+| Tutoring #7: Confidence Intervals  | [Worksheet](https://drive.google.com/file/d/11KZndOBkKiPLg7uLEYuhOY01jlwpsKmo/view), [Solutions](https://drive.google.com/file/d/1YWDZda_f9PidwvfxrsDjFtTK4OTMBQpd/view?usp=sharing) |
+| Tutoring #8: Central Limit Theorem  | [Worksheet](https://drive.google.com/file/d/16jwWuJJsqlyD_KVNI7UdDyC4UfmJA1u2/view?usp=sharing), Solutions |
+| Tutoring #9: Correlation and Regression  | Worksheet, Solutions |
 
