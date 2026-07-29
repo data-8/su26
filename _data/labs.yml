@@ -47,7 +47,7 @@ labs:
     link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&branch=main&urlpath=tree%2Fmaterials-su26%2Flab%2Flab09%2Flab09.ipynb"
   - title: Climate Part 1
     due: July 31
-    # link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&branch=main&urlpath=tree%2Fmaterials-su26%2Flab%2Flab10%2Flab10.ipynb"
+    link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&branch=main&urlpath=tree%2Fmaterials-su26%2Flab%2Flab10%2Flab10.ipynb"
   - title: Climate Part 2
     due: August 5
   - title: Conditional Probability
