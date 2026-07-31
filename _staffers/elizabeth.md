@@ -2,10 +2,10 @@
 name: Elizabeth Gonzalez
 role: Teaching Assistant
 email: elizabeth.d.gonzo@berkeley.edu
-website: 
+website: https://drive.google.com/drive/folders/1td33c0G8JBZE2E1DWpmpbUNwHnTWLh07?usp=sharing
 photo: Elizabeth.jpg
 pronouns: she/her
-office_hours: Tuesdays 2-3pm
+office_hours:
 team: Tutors
 access_email: 
 access_dsp: 

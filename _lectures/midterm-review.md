@@ -1,6 +1,6 @@
 ---
 published: true
-presented_by: Tai Dinh, Lena Todd, Cynthia Shao, Soumyadeep Talukdar, Elizabeth Gonzalez, Viraj Agarwal
+presented_by: Tai Dinh, Lena Todd, Cynthia Shao, Soumyadeep Talukdar, Elizabeth Gonzalez, Viraj Aggarwal
 title: Midterm Review
 files:
    slides: https://docs.google.com/presentation/d/1wJPAt-VidpkEw2Fexj55KYlu_kq6zJoyT7LSB-he9iU/edit?usp=sharing
