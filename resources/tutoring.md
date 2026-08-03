@@ -18,6 +18,6 @@ published: true
 | Tutoring #5: Sampling, Hypothesis Testing, and Decisions | [Worksheet](https://drive.google.com/file/d/1fBqLoyBalgAL0fBi90iYO8nm12armW4F/view?usp=sharing), [Solutions](https://drive.google.com/file/d/1gjMBqToS518LHlWKP-HjIqZqSF1l5T7L/view?usp=sharing) |
 | Tutoring #6: Midterm Review  | [Worksheet](https://drive.google.com/file/d/11lfNgjcaTXTNdPezfmB6Mlpg6JrYoxjZ/view), [Solutions](https://drive.google.com/file/d/1YRdxYrv4iVQmKj6UoyZV4PrdewmSCvH1/view?usp=sharing) |
 | Tutoring #7: Confidence Intervals  | [Worksheet](https://drive.google.com/file/d/11KZndOBkKiPLg7uLEYuhOY01jlwpsKmo/view), [Solutions](https://drive.google.com/file/d/1YWDZda_f9PidwvfxrsDjFtTK4OTMBQpd/view?usp=sharing) |
-| Tutoring #8: Central Limit Theorem  | [Worksheet](https://drive.google.com/file/d/16jwWuJJsqlyD_KVNI7UdDyC4UfmJA1u2/view?usp=sharing), Solutions |
-| Tutoring #9: Correlation and Regression  | [Worksheet](https://drive.google.com/drive/folders/1hGxy1aT13KsTC8gGQxFLfSJl-PjbnY8v), Solutions |
+| Tutoring #8: Central Limit Theorem  | [Worksheet](https://drive.google.com/file/d/16jwWuJJsqlyD_KVNI7UdDyC4UfmJA1u2/view?usp=sharing), [Solutions](https://drive.google.com/file/d/17qpy_41bEEET5_HitanbLEKx18Zq16yB/view?usp=sharing) |
+| Tutoring #9: Correlation and Regression  | [Worksheet](https://drive.google.com/drive/folders/1hGxy1aT13KsTC8gGQxFLfSJl-PjbnY8v), [Solutions](https://drive.google.com/file/d/1lObF5SjRtMVwZhaXCXbr7GklubwDcBWu/view?usp=sharing) |
 
