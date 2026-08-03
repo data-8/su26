@@ -1,6 +1,6 @@
 ---
-title: Week 6 Announcements
-week: 6
+title: Week 7 Announcements
+week: 7
 ---
 
 Welcome to _week 7_ of Data 8!!!! ٩(ˊᗜˋ*)و 
