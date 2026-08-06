@@ -1,0 +1,4 @@
+main:
+  - title: 📖 Textbook
+    url: https://inferentialthinking.com
+    external: true
