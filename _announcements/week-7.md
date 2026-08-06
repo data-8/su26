@@ -3,7 +3,7 @@ title: Week 7 Announcements
 week: 7
 ---
 
-Welcome to _week 7_ of Data 8!!!! ٩(ˊᗜˋ*)و 
+Welcome to _week 7_ of Data 8!!! ٩(ˊᗜˋ*)و 
 
 1. **Assignments Due**
     * [Homework 10](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&urlpath=tree%2Fmaterials-su26%2Fhw%2Fhw10%2Fhw10.ipynb) is due on *<u>Tuesday</u>, August 4*
