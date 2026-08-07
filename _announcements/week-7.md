@@ -13,6 +13,7 @@ Welcome to _week 7_ of Data 8!!! ٩(ˊᗜˋ*)و
         * Project 2 final submission is due on *<u>Wednesday</u>, August 12*
     * [Homework 11](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&urlpath=tree%2Fmaterials-su26%2Fhw%2Fhw11%2Fhw11.ipynb) is due on *<u>Friday</u>, August 7*
     * [Lab 12](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&branch=main&urlpath=tree%2Fmaterials-su26%2Flab%2Flab12%2Flab12.ipynb) is due on *<u>Friday</u>, August 7*
+    * [Homework 12](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su26&urlpath=tree%2Fmaterials-su26%2Fhw%2Fhw12%2Fhw12.ipynb) is due on *<u>Tuesday</u>, August 11*
 2. Project 1 regrades are due on *<u>Monday</u>, August 3*
 
 
