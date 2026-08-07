@@ -237,7 +237,17 @@ lectures:
           - text: 17.5
             url: https://inferentialthinking.com/chapters/17/5/Accuracy_of_the_Classifier.html
   - slug: "bayes-classification"
+    readings: 
+      - links: 
+          - text: 18.1
+            url: https://inferentialthinking.com/chapters/18/1/more-likely-than-not-binary-classifier/
+          - text: 18.2
+            url: https://inferentialthinking.com/chapters/18/2/making-decisions/
   - slug: "multiple-lin-regression"
+    readings:
+      - links: 
+              - text: 17.6
+                url: https://inferentialthinking.com/chapters/17/6/multiple-regression/
   - slug: "exploration-review"
   - slug: "inference-review"
   - slug: "prediction-review"
