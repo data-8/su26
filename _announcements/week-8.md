@@ -8,7 +8,7 @@ Welcome to the final week of Data 8!
 1. The final exam is on Friday, August 14 from 11am-2pm. 
     * Please read through [this Ed post](https://edstem.org/us/courses/99820/discussion/8190656) **in its entirety.**
     * If you haven't received a seating assignment, please make a private Ed post ASAP.
-2. We are hosting a Project 2 party on Monday, August 10, from 6-8pm! Check out [this Ed post] for more information.
+2. We are hosting a Project 2 party on Monday, August 10, from 6-8pm! Check out [this Ed post](https://edstem.org/us/courses/99820/discussion/8188684) for more information.
 3. We are only having one discussion this week! There will be no second discussion this week due to the final exam.
 4. Please complete course evaluations (for both the instructor and TAs)! While they are not required, they are crucial in helping us improve the course.
 5. **Assignments Due**
