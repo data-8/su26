@@ -20,6 +20,7 @@ published: true
 | Tutoring #7: Confidence Intervals  | [Worksheet](https://drive.google.com/file/d/11KZndOBkKiPLg7uLEYuhOY01jlwpsKmo/view), [Solutions](https://drive.google.com/file/d/1YWDZda_f9PidwvfxrsDjFtTK4OTMBQpd/view?usp=sharing) |
 | Tutoring #8: Central Limit Theorem  | [Worksheet](https://drive.google.com/file/d/16jwWuJJsqlyD_KVNI7UdDyC4UfmJA1u2/view?usp=sharing), [Solutions](https://drive.google.com/file/d/17qpy_41bEEET5_HitanbLEKx18Zq16yB/view?usp=sharing) |
 | Tutoring #9: Correlation and Regression  | [Worksheet](https://drive.google.com/drive/folders/1hGxy1aT13KsTC8gGQxFLfSJl-PjbnY8v), [Solutions](https://drive.google.com/file/d/1lObF5SjRtMVwZhaXCXbr7GklubwDcBWu/view?usp=sharing) |
-| Tutoring #10: Regression Inference and Residuals  | [Worksheet](https://drive.google.com/file/d/1n0rXO-FTLO8iCaWNDCpgAcohBSjfa3Qd/view?usp=sharing), Solutions |
-| Tutoring #11: Classification  | [Worksheet](https://drive.google.com/file/d/1py0DlcBOiCiq17cYXi_dpk_BI0HJfZWq/view?usp=sharing), Solutions |
+| Tutoring #10: Regression Inference and Residuals  | [Worksheet](https://drive.google.com/file/d/1n0rXO-FTLO8iCaWNDCpgAcohBSjfa3Qd/view?usp=sharing), [Solutions](https://drive.google.com/file/d/157HNpP8SH7DS2Tfv5b7F5P3uj3ifqHQk/view?usp=sharing) |
+| Tutoring #11: Classification  | [Worksheet](https://drive.google.com/file/d/1py0DlcBOiCiq17cYXi_dpk_BI0HJfZWq/view?usp=sharing), [Solutions](https://drive.google.com/file/d/19GDubMKP2NQk2nbh642uzCz36EBKsS_f/view?usp=sharing) |
+| Tutoring #12: Wrapping Up  | [Worksheet](https://drive.google.com/file/d/1wKcSCg5SkVgehweC5-EVb0OgsyFdajqr/view?usp=sharing), Solutions |
 
