@@ -7,7 +7,16 @@ parent: "&#x1F4DA; Resources"
 published: true
 ---
 
+{:.no_toc}
+
 # **Exam Resources**
+{:.no_toc}
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Past Exams
 
