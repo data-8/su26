@@ -251,3 +251,5 @@ lectures:
   - slug: "exploration-review"
   - slug: "inference-review"
   - slug: "prediction-review"
+  - title: "No Lecture"
+    nonumber: true
