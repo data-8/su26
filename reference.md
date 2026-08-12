@@ -19,7 +19,7 @@ description: >-
 
 ## Abbreviated Reference Sheet
 
-Students will receive an [abbreviated reference sheet](https://drive.google.com/file/d/1VnCVrfqRSzRQcAWVFaz6fuNXxUYD-9KZ/view?usp=sharing) for exams.
+Students will receive an [abbreviated reference sheet](https://drive.google.com/file/d/1A7YglQ0GFQdWLOjJ_CWYfp4sMj6PuJQP/view?usp=sharing) for exams.
 
 
 ---
